@@ -1,0 +1,6 @@
+D:\сисярп\algorithms\linearSearch\linearSearch\bin\Debug\linearSearch.exe.config
+D:\сисярп\algorithms\linearSearch\linearSearch\obj\Debug\linearSearch.csprojResolveAssemblyReference.cache
+D:\сисярп\algorithms\linearSearch\linearSearch\bin\Debug\linearSearch.exe
+D:\сисярп\algorithms\linearSearch\linearSearch\bin\Debug\linearSearch.pdb
+D:\сисярп\algorithms\linearSearch\linearSearch\obj\Debug\linearSearch.exe
+D:\сисярп\algorithms\linearSearch\linearSearch\obj\Debug\linearSearch.pdb
